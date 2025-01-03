@@ -24,3 +24,8 @@ The [Online Retail dataset](https://archive.ics.uci.edu/ml/datasets/Online+Retai
    ```bash
    git clone https://github.com/your-username/customer-segmentation-market-basket-analysis.git
    cd customer-segmentation-market-basket-analysis
+## **Screenshots of results and insights**
+![image](https://github.com/user-attachments/assets/4db2ac3b-5c6d-4528-b97f-c351e32e4cf2)
+![image](https://github.com/user-attachments/assets/f0dd457f-6c60-4df5-a02b-16fb49c5d4d7)
+![image](https://github.com/user-attachments/assets/177e1a2c-0df1-4783-9d50-f9ad6c2cd38f)
+![Uploading image.png…]()
